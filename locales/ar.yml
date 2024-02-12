@@ -1,0 +1,13 @@
+# WARNING: Never edit this file.
+# It will be overwritten when translations are pulled from Crowdin.
+#
+# To work with us on translations, join this project:
+# https://translate.discourse.org/
+
+ar:
+  subcategory_list:
+    heading: "الفئات الفرعية"
+  top_topics:
+    heading: "الموضوعات الأكثر نشاطًا"
+  category_list:
+    heading: "الفئات"
